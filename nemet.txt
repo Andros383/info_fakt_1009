@@ -1,0 +1,14 @@
+Berlin	136.865
+Cologne	119.556
+Dortmund	163.719
+Dusseldorf	114.12
+Frankfurt	133.1
+Friedrichshafen	166
+Hahn	197.531
+Hamburg	118.313
+Hanover	156.381
+Karlsruhe	155.315
+Memmingen	166
+Munich	107.982
+Nuernberg	165.287
+Stuttgart	114.204
